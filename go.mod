@@ -1,4 +1,4 @@
-module bitbucket.org/bonescreen/config-lib-go
+module github.com/giesekow/app-config-lib
 
 go 1.25.6
 
